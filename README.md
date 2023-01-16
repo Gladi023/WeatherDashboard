@@ -14,7 +14,7 @@ The website can be deployed by clicking on the following link:
 https://gladi023.github.io/WeatherDashboard/
 
 After deploying the website the user can check the weather bu searching by city:
-![Screenshot of the website](assets/images/Screen%20Shot%202022-05-22%20at%2011.48.14%20PM.png)
+![Screenshot of the website](./assets/images/Screen%20Shot%202023-01-16%20at%203.29.16%20PM.png)
 
 ## Credits
 The original material that is included in the referenced websitres reviewed belongs to Trilogy Education Services. 
